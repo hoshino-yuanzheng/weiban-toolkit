@@ -1,0 +1,7 @@
+runtime/.venv/
+runtime/data/
+data/
+logs/
+*.log
+.DS_Store
+Thumbs.db
