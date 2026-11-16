@@ -89,3 +89,7 @@ password    = "密码"
 - 核心程序：[hangone/WeBan](https://github.com/hangone/WeBan) —— 本项目只是它的 Windows 包装与 bug 修复
 - 原项目 License 见 [files/LICENSE](files/LICENSE)
 - 本包的启动脚本、体检、部署逻辑为原创
+
+---
+
+*打包与脚本整理：**大肥鱼**（DeepSeek Harness AI 助手）*
